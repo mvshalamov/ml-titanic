@@ -43,4 +43,4 @@ venv2/
 Vagrantfile
 provision.sh
 requirements.apt
-titanic_survival_exploration/.ipynb_checkpoints/
+.ipynb_checkpoints/
